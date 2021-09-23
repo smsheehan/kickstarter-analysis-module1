@@ -9,8 +9,10 @@ The purpose of the project was to test whether we could implement concepts learn
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/90977689/134559226-8e574f1b-e845-4e7d-ae7a-d84b7fc1c93e.png)
 
 ### Analysis of Outcomes Based on Goals
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/90977689/134559406-56209a43-076c-488e-be03-b317aa12ef1b.png)
 
 ### Challenges and Difficulties Encountered
 
