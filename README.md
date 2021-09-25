@@ -1,14 +1,16 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-This was a project to evaluate a small kickstarter data set to try to understand factors that play a role in a kickstarter's success or failure.  Specifically, much of the focus of this project was in the category of theater and subcategory plays.
+Kickstarter is a crowdfunding platform that enables entrepreneurs to attract funding to help bring a project or product from idea to implementation.  According to wikipedia, https://en.wikipedia.org/wiki/Kickstarter, since July 2021 there have been approximately 205,00 successfully funded projects which makes this an interesting data set for learning data analytics skills.  This was a project to evaluate a kickstarter data set to try to understand factors that play a role in a kickstarter's success or failure.  Specifically, much of the focus of this project was in the category of theater and subcategory plays.
 
 ### Purpose
-The purpose of the project was to test whether we could implement concepts learned in the module lessons to provide two different analyses.  The purpose of the analyses was to see if we could glean useful information from analyzing previous kickstarter outcomes based on launch date and from analyzing previous kickstarter outcomes based on the initial dollar goals of those projects.   
+The purpose of the project was to test whether we could implement concepts learned in the module lessons to provide two different analyses.  The purpose of the analyses was to see if we could glean useful information from analyzing previous kickstarter outcomes based on launch date and from analyzing previous kickstarter outcomes based on the initial dollar goals of those projects.  This was done under the auspices of helping our fictional friend, Louise, understand if these two variables (launch date, funding goal) impacted the success of projects on kickstarter. 
 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+This analysis starts with the need to take our "Date Created Conversion" column in which we had previously converted date from unix format, and extract out just the year.  The function used to do this was straightforward.  INSERT LINK TO FUNCTION.     
+
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/90977689/134559226-8e574f1b-e845-4e7d-ae7a-d84b7fc1c93e.png)
 
 ### Analysis of Outcomes Based on Goals
