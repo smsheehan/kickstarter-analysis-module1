@@ -9,13 +9,14 @@ The purpose of the project was to test whether we could implement concepts learn
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-This analysis starts with the need to take our "Date Created Conversion" column in which we had previously converted date from unix format, and extract out just the year.  The function used to do this was straightforward.  INSERT LINK TO FUNCTION.   I then created a pivot table and applied appropriate filters and sorting to achieve the following table
+This analysis starts with the need to take our "Date Created Conversion" column in which we had previously converted date from unix format, and extract out just the year.  The function used to do this was straightforward.  All of the functions written for this assignment can be found in the Excel workbook located at https://github.com/smsheehan/kickstarter-analysis-module1/blob/main/Kickstarter_Challenge.zip.   I then created a pivot table and applied appropriate filters and sorting to achieve the following table
 https://github.com/smsheehan/kickstarter-analysis-module1/blob/main/Screenshot%20theater%20outcomes%20by%20launch%20date%20pivot%20table.png
 After ensuring the table was correctly displayed, I used the Insert tab in excel to create a line chart, which looked like this:
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/90977689/134559226-8e574f1b-e845-4e7d-ae7a-d84b7fc1c93e.png)
 
 ### Analysis of Outcomes Based on Goals
-This analysis required the creation of 8 columns (Goals, Number Successful, Number Failed, Number Canceled, Total Projects, Percentage Successful, Percentage Failed, Percentage Canceled) in a new sheet and I needed to create functions extract the relevant information for the subcategory "plays" from the main kickstarter data worksheet.  For the Number Successful/Failed/Canceled columns, this was accomplished using the countifs function.  Here is a representative function for the Number Successful column:  INSERT LINK TO FUNCTION HERE.  The remaining columns required only simple math functions to calculate the sum and percentage where appropriate.  I then inserted a line chart which looked like this:
+This analysis required the creation of 8 columns (Goals, Number Successful, Number Failed, Number Canceled, Total Projects, Percentage Successful, Percentage Failed, Percentage Canceled) in a new sheet and I needed to create functions extract the relevant information for the subcategory "plays" from the main kickstarter data worksheet.  For the Number Successful/Failed/Canceled columns, this was accomplished using the countifs function.  Here is a representative countifs function for the Number Successful column:  
+All of the functions can be viewed in the Excel workbook located at https://github.com/smsheehan/kickstarter-analysis-module1/blob/main/Kickstarter_Challenge.zip.  The remaining columns required only simple math functions to calculate the sum and percentage where appropriate.  I then inserted a line chart which looked like this:
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/90977689/134559406-56209a43-076c-488e-be03-b317aa12ef1b.png)
 
 ### Challenges and Difficulties Encountered
