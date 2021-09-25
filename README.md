@@ -9,8 +9,9 @@ The purpose of the project was to test whether we could implement concepts learn
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-This analysis starts with the need to take our "Date Created Conversion" column in which we had previously converted date from unix format, and extract out just the year.  The function used to do this was straightforward.  INSERT LINK TO FUNCTION.     
+This analysis starts with the need to take our "Date Created Conversion" column in which we had previously converted date from unix format, and extract out just the year.  The function used to do this was straightforward.  INSERT LINK TO FUNCTION.   I then created a pivot table and applied appropriate filters and sorting to achieve the following table
 
+After ensuring the table was correctly displayed, I used the Insert tab in excel to create a line chart, which looked like this:
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/90977689/134559226-8e574f1b-e845-4e7d-ae7a-d84b7fc1c93e.png)
 
 ### Analysis of Outcomes Based on Goals
