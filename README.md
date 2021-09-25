@@ -23,7 +23,8 @@ The biggest challenge associate with this assignment was getting comfortable wit
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+### What are two conclusions you can draw about the Outcomes based on Launch Date?
+The first conclusion that can be drawn is that in the "theater" category, there is higher overall launch of new projects in the month of May and the fewest number of new projects launched in the month of December.  The second conclusion that can be drawn is that the success rate for launched products is highest in the month of May and lowest success rate is seen for projects launched in December.  Another observation is that the number of cancelled projects in this category is comparatively low and fairly consistent across the months.
 
 - What can you conclude about the Outcomes based on Goals?
 
