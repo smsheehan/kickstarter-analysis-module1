@@ -26,7 +26,8 @@ The biggest challenge associate with this assignment was getting comfortable wit
 ### What are two conclusions you can draw about the Outcomes based on Launch Date?
 The first conclusion that can be drawn is that in the "theater" category, there is higher overall launch of new projects in the month of May and the fewest number of new projects launched in the month of December.  The second conclusion that can be drawn is that the success rate for launched products is highest in the month of May and lowest success rate is seen for projects launched in December.  Another observation is that the number of cancelled projects in this category is comparatively low and fairly consistent across the months.
 
-- What can you conclude about the Outcomes based on Goals?
+### What can you conclude about the Outcomes based on Goals?
+It can be concluded that projects in the subcategory of "plays" with goals of less than 5000, have historically had the highest success rate.  Projects with goals between 5000 and 19,999 dollars have historically had 50% or greater success rate.  In general, it appears that as the goal amounts get higher, the percent of successful projects get lower.  There are two exceptions to this with the categories of 35,000 to 39,999 dollars and 40,000 to 44,999 dollars both having a 67% successful rate.  However, since these two categories only have 6 and 3 total projects respectively, it would be unwise to make a conclusion based on so few data points.  
 
 - What are some limitations of this dataset?
 
