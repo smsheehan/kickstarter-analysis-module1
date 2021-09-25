@@ -10,7 +10,9 @@ The purpose of the project was to test whether we could implement concepts learn
 
 ### Analysis of Outcomes Based on Launch Date
 This analysis starts with the need to take our "Date Created Conversion" column in which we had previously converted date from unix format, and extract out just the year.  The function used to do this was straightforward.  All of the functions written for this assignment can be found in the Excel workbook located at https://github.com/smsheehan/kickstarter-analysis-module1/blob/main/Kickstarter_Challenge.zip.   I then created a pivot table and applied appropriate filters and sorting to achieve the following table
-https://github.com/smsheehan/kickstarter-analysis-module1/blob/main/Screenshot%20theater%20outcomes%20by%20launch%20date%20pivot%20table.png
+
+![Screenshot theater outcomes by launch date pivot table](https://user-images.githubusercontent.com/90977689/134785011-ee20e04a-6706-4f00-bd44-7e6028d69366.png)
+
 After ensuring the table was correctly displayed, I used the Insert tab in excel to create a line chart, which looked like this:
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/90977689/134559226-8e574f1b-e845-4e7d-ae7a-d84b7fc1c93e.png)
 
