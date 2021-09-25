@@ -15,7 +15,8 @@ After ensuring the table was correctly displayed, I used the Insert tab in excel
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/90977689/134559226-8e574f1b-e845-4e7d-ae7a-d84b7fc1c93e.png)
 
 ### Analysis of Outcomes Based on Goals
-This analysis required the creation of 8 columns (Goals, Number Successful, Number Failed, Number Canceled, Total Projects, Percentage Successful, Percentage Failed, Percentage Canceled) in a new sheet and I needed to create functions extract the relevant information for the subcategory "plays" from the main kickstarter data worksheet.  For the Number Successful/Failed/Canceled columns, this was accomplished using the countifs function.  Here is a representative countifs function for the Number Successful column:  
+This analysis required the creation of 8 columns (Goals, Number Successful, Number Failed, Number Canceled, Total Projects, Percentage Successful, Percentage Failed, Percentage Canceled) in a new sheet and I needed to create functions extract the relevant information for the subcategory "plays" from the main kickstarter data worksheet.  For the Number Successful/Failed/Canceled columns, this was accomplished using the countifs function.  Here is a representative countifs function for the Number Successful column cell B2: ![image](https://user-images.githubusercontent.com/90977689/134780870-66dbb6fa-6003-4614-8f00-a67b0f5bf9fe.png)
+ 
 All of the functions can be viewed in the Excel workbook located at https://github.com/smsheehan/kickstarter-analysis-module1/blob/main/Kickstarter_Challenge.zip.  The remaining columns required only simple math functions to calculate the sum and percentage where appropriate.  I then inserted a line chart which looked like this:
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/90977689/134559406-56209a43-076c-488e-be03-b317aa12ef1b.png)
 
